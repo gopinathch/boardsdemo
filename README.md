@@ -1,3 +1,5 @@
 # Azure DevOps + GitHub Integration
 
-Add new contacts here
+Add new contacts here:
+- Contact1
+- Contact2
